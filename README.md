@@ -49,7 +49,7 @@ The project is implemented in MATLAB using the Neural Network Toolbox and the Le
 This graph compares the measured pressure values with the PINN predicted pressure values over time.  
 The close overlap between the curves shows the high accuracy of the developed model.
 
-![Measured vs Predicted Pressure](comparisongraph.png)
+![Measured vs Predicted Pressure](comparison_graph.png)
 
 ---
 
@@ -64,7 +64,7 @@ Smooth color transitions indicate stable and physically consistent predictions.
 ### 3. Neural Network Training Performance
 This figure shows the neural network training performance and convergence behavior during MATLAB training using the Levenberg–Marquardt algorithm.
 
-![Neural Network Training](neuralnetworktraining.png)
+![Neural Network Training](neural_network_training.png)
 
 ## Applications
 - Smart Water Distribution Systems

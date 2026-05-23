@@ -57,7 +57,7 @@ The close overlap between the curves shows the high accuracy of the developed mo
 This contour plot visualizes the variation of predicted pressure with respect to flow rate and time.  
 Smooth color transitions indicate stable and physically consistent predictions.
 
-![Pressure Contour Plot](PINNpressure.jpg)
+![Pressure Contour Plot](PINN_pressure.jpg)
 
 ---
 

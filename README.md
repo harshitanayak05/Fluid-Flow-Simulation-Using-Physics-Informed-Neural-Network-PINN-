@@ -91,7 +91,7 @@ Regression plot compares the predicted outputs with the target values.
 ### 2. Training State Plot
 This figure displays the training state of the neural network, including gradient, validation checks, and learning behavior during training.
 
-![Training State](Training_state.png)
+![Training State](training_state.png)
 
 ---
 

@@ -66,6 +66,35 @@ This figure shows the neural network training performance and convergence behavi
 
 ![Neural Network Training](neural_network_training.png)
 
+---
+
+## Network Diagram Results
+
+### 1. Function Fitting Plot
+This figure represents the function fitting performance of the neural network model.  
+It shows how well the predicted outputs fit the target pressure values during training.
+
+![Function Fitting](function_fitting.png)
+
+---
+
+## Training Plots
+
+### 1. Performance and Regression Plot
+Performance shows the training, validation, and testing performance of the neural network using Mean Squared Error (MSE).  
+Regression plot compares the predicted outputs with the target values.
+
+![Performance and Regression Plot](Performance_and_regression.png)
+
+---
+
+### 2. Training State Plot
+This figure displays the training state of the neural network, including gradient, validation checks, and learning behavior during training.
+
+![Training State](Training_state.png)
+
+---
+
 ## Applications
 - Smart Water Distribution Systems
 - Pipeline Monitoring

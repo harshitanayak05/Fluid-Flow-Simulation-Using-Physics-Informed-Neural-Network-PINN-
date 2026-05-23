@@ -43,6 +43,28 @@ The project is implemented in MATLAB using the Neural Network Toolbox and the Le
 ## Output Parameter
 - Pressure (Pa)
 
+## Results
+
+### 1. Measured vs Predicted Pressure Plot
+This graph compares the measured pressure values with the PINN predicted pressure values over time.  
+The close overlap between the curves shows the high accuracy of the developed model.
+
+![Measured vs Predicted Pressure](Comparison%20graph.jpg)
+
+---
+
+### 2. Pressure Contour Plot
+This contour plot visualizes the variation of predicted pressure with respect to flow rate and time.  
+Smooth color transitions indicate stable and physically consistent predictions.
+
+![Pressure Contour Plot](PINN%20pressure.jpg)
+
+---
+
+### 3. Neural Network Training Performance
+This figure shows the neural network training performance and convergence behavior during MATLAB training using the Levenberg–Marquardt algorithm.
+
+![Neural Network Training](Neural%20network%20training.jpg)
 ## Applications
 - Smart Water Distribution Systems
 - Pipeline Monitoring

@@ -49,7 +49,9 @@ The project is implemented in MATLAB using the Neural Network Toolbox and the Le
 This graph compares the measured pressure values with the PINN predicted pressure values over time.  
 The close overlap between the curves shows the high accuracy of the developed model.
 
-![Measured vs Predicted Pressure](comparison_graph.png)
+<p align="center">
+  <img src="comparison_graph.png" width="450">
+</p>
 
 ---
 
@@ -57,15 +59,17 @@ The close overlap between the curves shows the high accuracy of the developed mo
 This contour plot visualizes the variation of predicted pressure with respect to flow rate and time.  
 Smooth color transitions indicate stable and physically consistent predictions.
 
-![Pressure Contour Plot](PINN_pressure.png)
-
+<p align="center">
+  <img src="PINN_pressure.png" width="450">
+</p>
 ---
 
 ### 3. Neural Network Training Performance
 This figure shows the neural network training performance and convergence behavior during MATLAB training using the Levenberg–Marquardt algorithm.
 
-![Neural Network Training](neural_network_training.png)
-
+<p align="center">
+  <img src="neural_network_training.png" width="450">
+</p>
 ---
 
 ## Network Diagram Results
@@ -74,8 +78,9 @@ This figure shows the neural network training performance and convergence behavi
 This figure represents the function fitting performance of the neural network model.  
 It shows how well the predicted outputs fit the target pressure values during training.
 
-![Function Fitting](function_fitting.png)
-
+<p align="center">
+  <img src="function_fitting.png" width="450">
+</p>
 ---
 
 ## Training Plots
@@ -84,15 +89,17 @@ It shows how well the predicted outputs fit the target pressure values during tr
 Performance shows the training, validation, and testing performance of the neural network using Mean Squared Error (MSE).  
 Regression plot compares the predicted outputs with the target values.
 
-![Performance and Regression Plot](Performance_and_regression.png)
-
+<p align="center">
+  <img src="Performance_and_regression.png" width="450">
+</p>
 ---
 
 ### 2. Training State Plot
 This figure displays the training state of the neural network, including gradient, validation checks, and learning behavior during training.
 
-![Training State](training_state.png)
-
+<p align="center">
+  <img src="training_state.png" width="450">
+</p>
 ---
 
 ## Applications
